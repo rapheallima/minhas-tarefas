@@ -29,4 +29,6 @@ function App() {
   )
 }
 
+// Atualizado
+
 export default App
